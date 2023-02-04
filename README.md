@@ -1,2 +1,2 @@
 # MenuApache
-Menu para deixar qualquer script ssh Hibrido.
+Menu para deixar qualquer Script Web Hibrido.
