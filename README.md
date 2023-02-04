@@ -13,12 +13,10 @@ apache2menu
 
 # Imagem
 ![Screenshot_78](https://user-images.githubusercontent.com/105602625/216764749-49d5e775-2c59-4c24-a4ce-e73d2f1b7b8f.jpg)
-
+</br></br>
 # Extras 
-🔵 GRUPO DO TELEGRAM - https://t.me/CanalJeanRocha
-
-🔴 GRUPO PARCEIRO - https://t.me/helpvpnsuporte
-
-🟣 CURSO VPN MONEY - https://kiwify.app/NKl55g5
-
-🟠 SEJA UM APOIADOR - https://www.patreon.com/SwitVPNPro
+🔵 GRUPO DO TELEGRAM - https://t.me/CanalJeanRocha </br>
+🔴 GRUPO PARCEIRO - https://t.me/helpvpnsuporte </br>
+🟣 CURSO VPN MONEY - https://kiwify.app/NKl55g5 </br>
+🟠 SEJA UM APOIADOR - https://www.patreon.com/SwitVPNPro </br>
+🔴 CANAL DO YOUTUBE - https://bit.ly/CanalJeanRocha </br>
