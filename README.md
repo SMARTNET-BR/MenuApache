@@ -17,7 +17,7 @@ apache2menu
 # Extras 
 🔵 GRUPO DO TELEGRAM - https://t.me/CanalJeanRocha
 
-🔴 GRUPO DO PARCEIRO - https://t.me/helpvpnsuporte
+🔴 GRUPO PARCEIRO - https://t.me/helpvpnsuporte
 
 🟣 CURSO VPN MONEY - https://kiwify.app/NKl55g5
 
