@@ -13,3 +13,9 @@ apache2menu
 
 # Imagem
 ![Screenshot_78](https://user-images.githubusercontent.com/105602625/216764749-49d5e775-2c59-4c24-a4ce-e73d2f1b7b8f.jpg)
+
+# Extras 
+🔵 GRUPO DO TELEGRAM - https://t.me/CanalJeanRocha
+🔴 GRUPO DO PARCEIRO - https://t.me/helpvpnsuporte
+🟣 CURSO VPN MONEY - https://kiwify.app/NKl55g5
+🟠 APOIADOR - https://www.patreon.com/SwitVPNPro
