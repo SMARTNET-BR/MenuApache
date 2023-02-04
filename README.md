@@ -15,8 +15,8 @@ apache2menu
 ![Screenshot_78](https://user-images.githubusercontent.com/105602625/216764749-49d5e775-2c59-4c24-a4ce-e73d2f1b7b8f.jpg)
 </br></br>
 # Extras 
-🔵 GRUPO DO TELEGRAM - https://t.me/CanalJeanRocha </br>
-🔴 GRUPO PARCEIRO - https://t.me/helpvpnsuporte </br>
-🟣 CURSO VPN MONEY - https://kiwify.app/NKl55g5 </br>
-🟠 SEJA UM APOIADOR - https://www.patreon.com/SwitVPNPro </br>
-🔴 CANAL DO YOUTUBE - https://bit.ly/CanalJeanRocha </br>
+🔵 <b>GRUPO DO TELEGRAM</b> - https://t.me/CanalJeanRocha </br>
+🔴 <b>GRUPO PARCEIRO</b> - https://t.me/helpvpnsuporte </br>
+🟣 <b>CURSO VPN MONEY</b> - https://kiwify.app/NKl55g5 </br>
+🟠 <b>SEJA UM APOIADOR</b> - https://www.patreon.com/SwitVPNPro </br>
+🔴 <b>CANAL DO YOUTUBE</b> - https://bit.ly/CanalJeanRocha </br>
