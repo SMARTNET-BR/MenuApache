@@ -8,10 +8,7 @@ APACHE2MENU () {
     clear
 	echo -e "\033[1;36mINTALANDO APACHE MENU \033[0m"
 	sleep 2s
-	bash <(wget -qO- https://github.com/JeanRocha91x/MenuApache/raw/main/apache2menu)
-	echo -e "\033[1;36mINTALADO COM SUCESSO \033[0m"
-	sleep 2s
-    apache2menu
+	apt install dos2unix -y; wget https://github.com/JeanRocha91x/MenuApache/raw/main/apache2menu && chmod +x apache2menu && dos2unix apache2menu && ./apache2menu
 }
 
 while true $x != "ok"
